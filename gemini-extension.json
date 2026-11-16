@@ -1,0 +1,11 @@
+{
+  "name": "create-my-maps",
+  "version": "1.0.0",
+  "description": "Turn data into colored maps of 463 countries, states, districts and constituencies, and get a link that opens the finished, editable map on createmymaps.com.",
+  "mcpServers": {
+    "create-my-maps": {
+      "httpUrl": "https://createmymaps.com/mcp/gemini"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
